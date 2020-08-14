@@ -1,2 +1,2 @@
 # Practing-HTML
-Introduction to HML. A Simple code about bears
+Introduction to HML. Practing and Learning HTML
